@@ -1,0 +1,2 @@
+ticker,company_name,sector,industry,country,exchange,currency,is_active
+GOOGL,Alphabet Inc,Technology,Internet,US,NASDAQ,USD,True

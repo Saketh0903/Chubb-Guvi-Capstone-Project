@@ -1,0 +1,2 @@
+ticker,company_name,sector,industry,country,exchange,currency,is_active
+HDFCBANK,HDFC Bank,Banking,Financial Services,IN,NSE,INR,True

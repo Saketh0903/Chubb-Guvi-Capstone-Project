@@ -1,0 +1,8 @@
+ticker,company_name,sector,industry,country,exchange,currency,is_active
+AAPL,Apple Inc,Tech,Consumer Electronics,US,NASDAQ,USD,True
+MSFT,Microsoft Corp,Tech,Software,US,NASDAQ,USD,True
+GOOGL,Alphabet Inc,Tech,Internet,US,NASDAQ,USD,True
+AMZN,Amazon.com Inc,E-Commerce,Online Retail,US,NASDAQ,USD,True
+TSLA,Tesla Inc,Auto,EV,US,NASDAQ,USD,True
+RELIANCE,Reliance Industries,Energy,Oil & Gas,IN,NSE,INR,True
+HDFCBANK,HDFC Bank,Banking,Banking,IN,NSE,INR,True
